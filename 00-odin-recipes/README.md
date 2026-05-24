@@ -4,4 +4,8 @@ Hello! This is one of many projects from the Odin Project. This website mainly c
 
 Keep in mind, this is purely made from HTML5, meaning no CSS or JS to make it pretty.
 
-Below, I'll be listing the skills I have been utilizing in making this website c:
+Access the live preview of the website below:
+
+<p>
+  <a href="https://htmlpreview.github.io/?https://github.com/haruuq/git_test/blob/main/00-odin-recipes/recipes/index.html" target="_blank">Go to Live Preview</a>
+</p>
