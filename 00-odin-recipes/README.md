@@ -2,7 +2,7 @@
 
 Hello! This is one of many projects from the Odin Project. This website mainly consists of links to a variety of recipes.
 
-Keep in mind, this is purely made from HTML5, meaning no CSS or JS to make it pretty.
+Keep in mind, this is made from HTML5 and CSS, no JS just yet so stay tuned!
 
 Access the live preview of the website below:
 
